@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/prexcel-react-server/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/prexcel-react-server/static/js/main.fb0e7b33.chunk.js",
+    "main.js.map": "/prexcel-react-server/static/js/main.fb0e7b33.chunk.js.map",
+    "runtime-main.js": "/prexcel-react-server/static/js/runtime-main.04e9c87d.js",
+    "runtime-main.js.map": "/prexcel-react-server/static/js/runtime-main.04e9c87d.js.map",
+    "static/js/2.0beb20be.chunk.js": "/prexcel-react-server/static/js/2.0beb20be.chunk.js",
+    "static/js/2.0beb20be.chunk.js.map": "/prexcel-react-server/static/js/2.0beb20be.chunk.js.map",
+    "static/js/3.bc0c3cad.chunk.js": "/prexcel-react-server/static/js/3.bc0c3cad.chunk.js",
+    "static/js/3.bc0c3cad.chunk.js.map": "/prexcel-react-server/static/js/3.bc0c3cad.chunk.js.map",
+    "index.html": "/prexcel-react-server/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/prexcel-react-server/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0beb20be.chunk.js.LICENSE.txt": "/prexcel-react-server/static/js/2.0beb20be.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/prexcel-react-server/static/media/logo.6ce24c58.svg",
+    "static/media/prexcel_logo.a8a53865.png": "/prexcel-react-server/static/media/prexcel_logo.a8a53865.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04e9c87d.js",
+    "static/js/2.0beb20be.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.fb0e7b33.chunk.js"
+  ]
+}
